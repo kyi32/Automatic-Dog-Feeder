@@ -31,9 +31,6 @@ This repository contains the design files, documentation, and code for an automa
 ### Documentation
 - `Project of the Automatic Pet Feeder.pdf`: Detailed report including project goals, morphological analysis, core design, system overview, components, software, demonstration, and future improvements.
 
-### Code
-- `README.md`: Initial commit of this README file.
-
 ## Project Details
 - **Objective**: Simplify pet care routines with remote monitoring and control, using sustainable materials for small to medium-sized pets.
 - **Features**: App-controlled food and water dispensing, live video monitoring, ultrasonic and water level sensors, customizable schedules.
@@ -52,7 +49,7 @@ Refer to `PetFeederAssembly.pdf` and `Project of the Automatic Pet Feeder.pdf` f
 - **Features**: Live sensor data (food/water levels), customizable schedules, manual and scheduled dispensing, camera feed via HTML site.
 
 ## Demonstration
-- **Videos**: Check the prototype presentation and assembly 3D model videos at [https://drive.google.com/drive/folders/1KkYPMTIqAwl6N05ESCOF5NJ43y_c4hTv?usp=drive_link](https://drive.google.com/drive/folders/1KkYPMTIqAwl6N05ESCOF5NJ43y_c4hTv?usp=drive_link).
+- **Videos**: Check the prototype demonstration and assembly 3D model videos at [https://drive.google.com/drive/folders/1KkYPMTIqAwl6N05ESCOF5NJ43y_c4hTv?usp=drive_link](https://drive.google.com/drive/folders/1KkYPMTIqAwl6N05ESCOF5NJ43y_c4hTv?usp=drive_link).
 
 ## Contributors
 - Ivan Rybalko
